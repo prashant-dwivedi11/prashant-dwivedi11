@@ -1,4 +1,4 @@
-[![MasterHead](https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg)]
+![MasterHead](https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg)
 <h1 align="center">Hi 👋, I'm Prashant Dhar Dwivedi</h1>
 <h3 align="center">Versatile Data Professional with expertise in Machine Learning, Data Analysis and Business Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
